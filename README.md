@@ -1,7 +1,7 @@
 
-#  Persian Poetry Generator 
+#  Local AI 
 
-Welcome to the Persian Poetry Generator project! This project uses a pre-trained language model to generate poems in the beautiful Persian language. 
+Welcome to the Local AI project! This project uses a pre-trained language model to generate poems in the beautiful Persian language. 
 
 ##  Quick Start
 
